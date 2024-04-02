@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "testlagi",
+            "group": "gk",
+            "database": "${workspaceFolder:monitoringfolder}/monitoring.db"
+        }
+    ]
+}
